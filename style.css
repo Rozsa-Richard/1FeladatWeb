@@ -1,0 +1,59 @@
+#main {
+    display: flex;
+}
+#green {
+    background-color: green;
+    width: 100%;
+    height: 300px;
+}
+#yellow {
+    background-color: yellow;
+    width: 100%;
+    height: 300px;
+
+}
+#purple {
+    background-color: purple;
+    width: 100%;
+    height: 300px;
+}
+
+#green2 {
+    background-color: green;
+    width: 100%;
+    height: 300px;
+    flex: 1;
+}
+#yellow2 {
+    background-color: yellow;
+    width: 100%;
+    height: 300px;
+    flex: 2;
+}
+#purple2 {
+    background-color: purple;
+    width: 100%;
+    height: 300px;
+    flex: 1;
+}
+
+#green3 {
+    background-color: green;
+    width: 100%;
+    height: 300px;
+    flex: 1;
+    order: 1;
+}
+#yellow3 {
+    background-color: yellow;
+    width: 100%;
+    height: 300px;
+    flex: 2;
+}
+#purple3 {
+    background-color: purple;
+    width: 100%;
+    height: 300px;
+    flex: 1;
+    order: -1
+}
