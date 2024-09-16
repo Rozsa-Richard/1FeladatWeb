@@ -36,6 +36,7 @@ li {
     background-color: purple;
     width: 100px;
     height: 100px;
+    list-style: none;
 }
 #main3 {
     width: 100%;
